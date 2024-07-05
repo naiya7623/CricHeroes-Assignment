@@ -1,4 +1,4 @@
-# CricHeroes-Assignment
+# CricHeroes Assignment
 
 The assignment was done in 2 parts:
 <ul>
