@@ -1,6 +1,6 @@
 # CricHeroes-Assignment
 
-The assignment was done in 2 parts.
+The assignment was done in 2 parts:
 <ul>
 <li>The first part was data cleaning and transforming, which was done using Python. The 'cricheroes_assignment' file has the code used to transform the data which was eventually used as source data for the dashboard.</li>
 
